@@ -70,3 +70,10 @@ Completed – Power BI dashboard development and analysis.
 ## Author
 
 Created as part of the Syntecxhub Internship Project – Student Performance Analysis.
+## Dashboard Preview
+
+### Student Performance Dashboard
+![Student Performance Dashboard](Student_Performance_Dashboard.png)
+
+### Insights & Recommendations
+![Insights & Recommendations](Insights_and_Recommendations.png)
